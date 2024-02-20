@@ -18,6 +18,4 @@ You can install NLTK via your Linux terminal with the following steps:
 
 ## Implementation
 
-To use the script, simply run:
-
-- `python3 CosineSimilarity.py` (Linux only)
+To use the script, simply run `python3 CosineSimilarity.py` (Linux only).
