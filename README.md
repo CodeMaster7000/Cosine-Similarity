@@ -9,7 +9,7 @@ A Python project to measure the similarity between two sentences using the cosin
 - `NLTK` (Linux)
 - Python 3
 
-You can install NLTK via your terminal with the following steps:
+You can install NLTK via your Linux terminal with the following steps:
 
 1. `sudo pip3 install nltk`
 2. `python3`
