@@ -6,7 +6,7 @@ A Python project to measure the similarity between two sentences using the cosin
 
 ## Prerequisites
 
-- `NLTK` (Linux)
+- `NLTK`
 - Python 3
 
 You can install NLTK via your Linux terminal with the following steps:
